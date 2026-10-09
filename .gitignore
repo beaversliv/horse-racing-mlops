@@ -1,0 +1,16 @@
+# Virtual environment
+.ml/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Data
+data/raw/
+data/processed/
+
+# Environment variables / secrets
+.env

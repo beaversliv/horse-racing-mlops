@@ -1,0 +1,278 @@
+{
+  "race_id": "R00638",
+  "runners": [
+    {
+      "runner_id": "runner_1",
+      "features": {
+        "added_money": 10000.0,
+        "age": 5.0,
+        "distance_yards": 4800.0,
+        "num_places": 4.0,
+        "num_runners": 13.0,
+        "overweight": 0.0,
+        "place_odds": 1.25,
+        "stall": 7.0,
+        "weight_pounds": 122.0,
+        "win_odds": 1.73,
+        "jockey_prev_races": null,
+        "jockey_prev_wins": null,
+        "jockey_win_rate": 0.1010486177311725,
+        "trainer_prev_races": 54.0,
+        "trainer_prev_wins": 9.0,
+        "trainer_win_rate": 0.1666666666666666
+      }
+    },
+    {
+      "runner_id": "runner_2",
+      "features": {
+        "added_money": 10000.0,
+        "age": 3.0,
+        "distance_yards": 4800.0,
+        "num_places": 4.0,
+        "num_runners": 13.0,
+        "overweight": 0.0,
+        "place_odds": 4.5,
+        "stall": 12.0,
+        "weight_pounds": 119.0,
+        "win_odds": 11.29,
+        "jockey_prev_races": 44.0,
+        "jockey_prev_wins": 3.0,
+        "jockey_win_rate": 0.0681818181818181,
+        "trainer_prev_races": 64.0,
+        "trainer_prev_wins": 12.0,
+        "trainer_win_rate": 0.1875
+      }
+    },
+    {
+      "runner_id": "runner_3",
+      "features": {
+        "added_money": 10000.0,
+        "age": 9.0,
+        "distance_yards": 4800.0,
+        "num_places": 4.0,
+        "num_runners": 13.0,
+        "overweight": 0.0,
+        "place_odds": 30.96,
+        "stall": 9.0,
+        "weight_pounds": 140.0,
+        "win_odds": 89.11,
+        "jockey_prev_races": 48.0,
+        "jockey_prev_wins": 5.0,
+        "jockey_win_rate": 0.1041666666666666,
+        "trainer_prev_races": 77.0,
+        "trainer_prev_wins": 4.0,
+        "trainer_win_rate": 0.0519480519480519
+      }
+    },
+    {
+      "runner_id": "runner_4",
+      "features": {
+        "added_money": 10000.0,
+        "age": 7.0,
+        "distance_yards": 4800.0,
+        "num_places": 4.0,
+        "num_runners": 13.0,
+        "overweight": 0.0,
+        "place_odds": 7.8,
+        "stall": 13.0,
+        "weight_pounds": 123.0,
+        "win_odds": 21.01,
+        "jockey_prev_races": 48.0,
+        "jockey_prev_wins": 6.0,
+        "jockey_win_rate": 0.125,
+        "trainer_prev_races": 28.0,
+        "trainer_prev_wins": 1.0,
+        "trainer_win_rate": 0.0357142857142857
+      }
+    },
+    {
+      "runner_id": "runner_5",
+      "features": {
+        "added_money": 10000.0,
+        "age": 10.0,
+        "distance_yards": 4800.0,
+        "num_places": 4.0,
+        "num_runners": 13.0,
+        "overweight": 0.0,
+        "place_odds": 20.57,
+        "stall": 3.0,
+        "weight_pounds": 132.0,
+        "win_odds": 58.54,
+        "jockey_prev_races": 39.0,
+        "jockey_prev_wins": 3.0,
+        "jockey_win_rate": 0.0769230769230769,
+        "trainer_prev_races": 86.0,
+        "trainer_prev_wins": 6.0,
+        "trainer_win_rate": 0.0697674418604651
+      }
+    },
+    {
+      "runner_id": "runner_6",
+      "features": {
+        "added_money": 10000.0,
+        "age": 5.0,
+        "distance_yards": 4800.0,
+        "num_places": 4.0,
+        "num_runners": 13.0,
+        "overweight": 0.0,
+        "place_odds": 6.56,
+        "stall": 5.0,
+        "weight_pounds": 123.0,
+        "win_odds": 17.34,
+        "jockey_prev_races": 45.0,
+        "jockey_prev_wins": 5.0,
+        "jockey_win_rate": 0.1111111111111111,
+        "trainer_prev_races": 74.0,
+        "trainer_prev_wins": 9.0,
+        "trainer_win_rate": 0.1216216216216216
+      }
+    },
+    {
+      "runner_id": "runner_7",
+      "features": {
+        "added_money": 10000.0,
+        "age": 7.0,
+        "distance_yards": 4800.0,
+        "num_places": 4.0,
+        "num_runners": 13.0,
+        "overweight": 0.0,
+        "place_odds": 16.93,
+        "stall": 2.0,
+        "weight_pounds": 135.0,
+        "win_odds": 47.85,
+        "jockey_prev_races": 43.0,
+        "jockey_prev_wins": 5.0,
+        "jockey_win_rate": 0.1162790697674418,
+        "trainer_prev_races": 83.0,
+        "trainer_prev_wins": 15.0,
+        "trainer_win_rate": 0.180722891566265
+      }
+    },
+    {
+      "runner_id": "runner_8",
+      "features": {
+        "added_money": 10000.0,
+        "age": 9.0,
+        "distance_yards": 4800.0,
+        "num_places": 4.0,
+        "num_runners": 13.0,
+        "overweight": 1.0,
+        "place_odds": 3.04,
+        "stall": 6.0,
+        "weight_pounds": 131.0,
+        "win_odds": 7.0,
+        "jockey_prev_races": 50.0,
+        "jockey_prev_wins": 9.0,
+        "jockey_win_rate": 0.18,
+        "trainer_prev_races": 74.0,
+        "trainer_prev_wins": 7.0,
+        "trainer_win_rate": 0.0945945945945946
+      }
+    },
+    {
+      "runner_id": "runner_9",
+      "features": {
+        "added_money": 10000.0,
+        "age": 2.0,
+        "distance_yards": 4800.0,
+        "num_places": 4.0,
+        "num_runners": 13.0,
+        "overweight": 0.0,
+        "place_odds": 5.53,
+        "stall": 11.0,
+        "weight_pounds": 118.0,
+        "win_odds": 14.32,
+        "jockey_prev_races": 36.0,
+        "jockey_prev_wins": 2.0,
+        "jockey_win_rate": 0.0555555555555555,
+        "trainer_prev_races": 64.0,
+        "trainer_prev_wins": 8.0,
+        "trainer_win_rate": 0.125
+      }
+    },
+    {
+      "runner_id": "runner_10",
+      "features": {
+        "added_money": 10000.0,
+        "age": 8.0,
+        "distance_yards": 4800.0,
+        "num_places": 4.0,
+        "num_runners": 13.0,
+        "overweight": 0.0,
+        "place_odds": 19.29,
+        "stall": 4.0,
+        "weight_pounds": 139.0,
+        "win_odds": 54.79,
+        "jockey_prev_races": 43.0,
+        "jockey_prev_wins": 1.0,
+        "jockey_win_rate": 0.0232558139534883,
+        "trainer_prev_races": 106.0,
+        "trainer_prev_wins": 7.0,
+        "trainer_win_rate": 0.0660377358490566
+      }
+    },
+    {
+      "runner_id": "runner_11",
+      "features": {
+        "added_money": 10000.0,
+        "age": 10.0,
+        "distance_yards": 4800.0,
+        "num_places": 4.0,
+        "num_runners": 13.0,
+        "overweight": 0.0,
+        "place_odds": 26.84,
+        "stall": 10.0,
+        "weight_pounds": 138.0,
+        "win_odds": 76.99,
+        "jockey_prev_races": 43.0,
+        "jockey_prev_wins": 2.0,
+        "jockey_win_rate": 0.0465116279069767,
+        "trainer_prev_races": 72.0,
+        "trainer_prev_wins": 8.0,
+        "trainer_win_rate": 0.1111111111111111
+      }
+    },
+    {
+      "runner_id": "runner_12",
+      "features": {
+        "added_money": 10000.0,
+        "age": 10.0,
+        "distance_yards": 4800.0,
+        "num_places": 4.0,
+        "num_runners": 13.0,
+        "overweight": 0.0,
+        "place_odds": 11.32,
+        "stall": 1.0,
+        "weight_pounds": 125.0,
+        "win_odds": 31.34,
+        "jockey_prev_races": 35.0,
+        "jockey_prev_wins": 3.0,
+        "jockey_win_rate": 0.0857142857142857,
+        "trainer_prev_races": 53.0,
+        "trainer_prev_wins": 7.0,
+        "trainer_win_rate": 0.1320754716981132
+      }
+    },
+    {
+      "runner_id": "runner_13",
+      "features": {
+        "added_money": 10000.0,
+        "age": 6.0,
+        "distance_yards": 4800.0,
+        "num_places": 4.0,
+        "num_runners": 13.0,
+        "overweight": 0.0,
+        "place_odds": 9.5,
+        "stall": 8.0,
+        "weight_pounds": 131.0,
+        "win_odds": 26.01,
+        "jockey_prev_races": 42.0,
+        "jockey_prev_wins": 3.0,
+        "jockey_win_rate": 0.0714285714285714,
+        "trainer_prev_races": 82.0,
+        "trainer_prev_wins": 3.0,
+        "trainer_win_rate": 0.0365853658536585
+      }
+    }
+  ]
+}
